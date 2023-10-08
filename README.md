@@ -1,2 +1,2 @@
-# iCoder.github.io
-This is personal fav website .
+# iCoder - Heaven for Coders.
+This is personal fav responsive website .
